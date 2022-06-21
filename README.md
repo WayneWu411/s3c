@@ -1,2 +1,2 @@
 # s3c
-AWS S3 Client
+AWS S3 & mailgun Client built with C based on libcurl
